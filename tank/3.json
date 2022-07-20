@@ -1,0 +1,19 @@
+{
+    "description": "Nitro NFT Booster",
+    "image": "https://raw.githubusercontent.com/cryptobugnft/nitro/boost/3.gif",
+    "edition": 1,
+    "attributes": [
+        {
+            "trait_type": "multiplier",
+            "value": "2.2"
+        },
+        {
+            "trait_type": "validity",
+            "value": "1 week"
+        },
+        {
+            "trait_type": "minted by",
+            "value": "KTH"
+        }
+    ]
+}
