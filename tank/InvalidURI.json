@@ -1,4 +1,11 @@
 {
 	"name": "Invalid URI",
-	"image": "https://raw.githubusercontent.com/cryptobugnft/nitro/main/boost/hidden.jpg"
+	"image": "https://raw.githubusercontent.com/cryptobugnft/nitro/main/boost/hidden.jpg",
+    	"edition": 1,
+	"attributes": [
+        {
+            "trait_type": "Error",
+            "value": "NULL"
+        }
+    ]
 }
