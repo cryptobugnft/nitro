@@ -1,0 +1,19 @@
+{
+    "description": "Nitro NFT Booster",
+    "image": "https://lh3.googleusercontent.com/7gxhAj9zuWf7u0hTKYBtONxcI3kkKRNRnjFU9ul01NMvepFqc0MReW-tHW53NfQnX297C2lLobOgVPxCY69MeQud62tvbPnPw0H_qA=s250",
+    "edition": 1,
+    "attributes": [
+        {
+            "trait_type": "multiplier",
+            "value": "2.4"
+        },
+        {
+            "trait_type": "validity",
+            "value": "1 week"
+        },
+        {
+            "trait_type": "minted by",
+            "value": "BCH"
+        }
+    ]
+}
